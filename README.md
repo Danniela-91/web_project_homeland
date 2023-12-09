@@ -26,7 +26,7 @@ Nesse projeto da sprint 4, foi proposto criar uma página web que mostra as cida
 
 Algumas melhorias que podem ser aplicadas:
 
-- Deixar a página mais dinâmica e interativo com animações em alguns pontos
+- Deixar a página mais dinâmica e interativa com animações em alguns elementos
 - Criar um menu de navegação com Links âncora de rolagem suave
 
 ---

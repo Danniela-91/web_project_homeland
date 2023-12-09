@@ -1,0 +1,28 @@
+.link-button {
+  width: fit-content;
+  height: fit-content;
+  background-color: #0278fe;
+  border-radius: 4px;
+  padding: 13px 20px;
+  text-decoration: none;
+  color: inherit;
+  font-size: 18px;
+  font-weight: 600;
+  transition: background-color 0.2s ease-in-out;
+}
+.link-button:hover {
+  background-color: #0063d2;
+}
+
+@media screen and (max-width: 768px) {
+  .link-button {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .link-button {
+    font-size: 14px;
+    padding: 16px 20px;
+  }
+}

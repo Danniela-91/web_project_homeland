@@ -1,0 +1,54 @@
+.about {
+  width: 100%;
+  max-width: 984px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.about__container {
+  max-width: 828px;
+  margin-right: auto;
+}
+.about__title {
+  font-size: 54px;
+  line-height: 1.07;
+  font-weight: 900;
+  margin-bottom: 16px;
+}
+.about__quote {
+  font-size: 24px;
+  line-height: 1.4;
+  margin-bottom: 8px;
+}
+.about__quote-cite {
+  width: 100%;
+  display: block;
+  text-align: right;
+  font-size: 24px;
+  line-height: 1.4;
+  margin-bottom: 32px;
+}
+.about__paragraph {
+  font-size: 16px;
+  line-height: 1.63;
+}
+
+@media screen and (max-width: 470px) {
+  .about__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .about {
+    padding: 0 16px;
+  }
+
+  .about__quote {
+    line-height: 1.25;
+    margin-bottom: 55px;
+  }
+  .about__quote-cite {
+    margin-bottom: 18px;
+  }
+}

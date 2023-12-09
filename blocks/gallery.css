@@ -1,0 +1,30 @@
+.gallery {
+  width: 100%;
+  padding: 0 24px;
+}
+.gallery__list {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 16px;
+}
+
+.gallery__img {
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .gallery__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .gallery {
+    padding: 0 16px;
+  }
+  .gallery__list {
+    grid-template-columns: 1fr;
+    grid-gap: 12px;
+  }
+}
