@@ -6,7 +6,7 @@ Bootcamp de Desenvolvimento Web - TripleTen
   <img alt="Projeto Homeland - TripleTen" src="./images/Capa.jpg" width="100%">
 </p>
 
-- <a href="#" target="_blank">Veja o projeto completo</a>
+- <a href="https://danniela-91.github.io/web_project_homeland/" target="_blank">Veja o projeto completo</a>
 
 ## 🚀 Tecnologias
 
@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse projeto da sprint 4, foi proposto criar uma página web que mostra as cidades natais de alguns funcionários do TripleTen,com uma pincelada pessoal.
+Nesse projeto da sprint 4, foi proposto criar uma página web que mostra as cidades natais de alguns funcionários do TripleTen, com um toque pessoal.
 
 ## 🛠 Melhorias
 
