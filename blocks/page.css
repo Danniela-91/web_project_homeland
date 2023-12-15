@@ -12,7 +12,7 @@
     gap: 88px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 470pxpx) {
   .page {
     gap: 62px;
   }

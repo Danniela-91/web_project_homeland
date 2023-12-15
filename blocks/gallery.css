@@ -13,13 +13,13 @@
   width: 100%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 720px) {
   .gallery__list {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 470px) {
   .gallery {
     padding: 0 16px;
   }
